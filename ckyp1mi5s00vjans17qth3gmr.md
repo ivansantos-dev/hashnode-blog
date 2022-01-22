@@ -14,9 +14,7 @@ Or you can go the Simulator -> I/O -> Keyboard -> Connect Hardware Keyboard
 
 So it seems that in the latest version of the Xcode 13.2.1 and using iOS 15 in your live preview, you can't type.
 
-But you can bring the iPhone device, but you won't be able to see it! Ha! Very cool, huh? If you want to type gibberish, which in most cases should be fine, then you can click on random letter to at least get some text inputted.
-
-I am linking the post where the you can read more about it. [Apple Developer Forum Post](https://developer.apple.com/forums/thread/681571)
+But you can bring the iPhone keyboard, but you won't be able to see it! Ha! Pretty useless, huh? However, it should be fine to write gibberish. You can bring the invisble keyboard by pressing Command+K. If you want to read more about this, you can read more [here](https://developer.apple.com/forums/thread/681571).
 
 
 
